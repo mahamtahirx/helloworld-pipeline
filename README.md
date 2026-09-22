@@ -4,6 +4,8 @@ A small Java sample app (reads a name from stdin, prints a greeting) used as a
 minimal end-to-end CI/CD reference project: GitHub Actions build → SonarCloud
 quality scan → Docker image build/push.
 
+Repository: https://github.com/mahamtahirx/helloworld-pipeline
+
 ## Project structure
 
 ```
